@@ -2,7 +2,7 @@
 
 A personal AI assistant that runs on your own Windows PC. It answers with local models by default, and with your own online key only when you allow it. Your chats, memory and files stay on your PC.
 
-Version 1.0.1. MIT licensed. Free.
+Version 1.0.2. MIT licensed. Free.
 
 ## Install
 
@@ -27,12 +27,12 @@ Ramses installs to `%LOCALAPPDATA%\Ramses`: the program in `app`, your own data 
 - **Chats and projects.** Keep threads on their own or group them in projects with their own memory, guidelines and model. You can give each chat its own motivation and guidelines too. Open two chats side by side.
 - **Long jobs.** Ramses works through multi-step tasks for hours if needed. You see each step as it happens: it is building, downloading, reading or searching. Steps fold into a short summary, and you can right-click a step for the details.
 - **Files and tools.** It can read, search, write and edit files (with backups), run PowerShell and git, and search your notes. Extra tools turn on when a chat needs them.
-- **Mockups and documents.** It can make page mockups you can preview in the app, and documents such as a scope or a readme.
+- **Mockups and documents.** It can make page mockups you can preview in the app, and documents such as a scope or a readme. Print any document or answer, or save it as a PDF.
 - **Messages.** Copy a whole answer, reply to a single message, and react with emojis. Ramses can react too.
 - **Models picked for your PC.** Ramses surveys your hardware and picks the best installed model for chat, big jobs and pictures. You can change any choice, download more models from Settings, or build a Ramses model tuned for your PC. The everyday model can load when you sign in to Windows, so the first answer comes at once.
 - **Plays nicely with games.** When a game starts, Ramses frees the graphics card and waits. Queued work carries on afterwards.
 - **Memory.** It remembers notes you approve, keeps project memory separate, and takes daily snapshots you can restore.
-- **Look and feel.** 16 colour presets or your own colours, seven styles (including see-through glass), any installed font and interface size. You can rename the assistant, and the whole app follows the new name.
+- **Look and feel.** 16 colour presets or your own colours, nine styles that change the whole look (glass, northern lights, neon, a green terminal screen, warm paper and more), any installed font and interface size. You can rename the assistant, and the whole app follows the new name.
 - **Accessibility.** Easier-reading font and spacing, status shapes as well as colours, larger targets, a strong focus outline, reduce motion, read-aloud with a choice of voice and speed, a sound and a notice when long tasks finish (with quiet hours), and keyboard shortcuts you can change (press ? for the list).
 - **Context and usage.** See what the model reads for each chat, how full its window is, which models are in memory, and 30 days of use and spending (Ctrl+Shift+U).
 - **Your phone.** Use Ramses from your phone through Tailscale, privately, with no public address. Settings, Connections, Phone access has a pairing code.
